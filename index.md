@@ -1,8 +1,8 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"-->
 <html>
 <head>
 
-	<title>Jonathan Doe | Web Designer, Director | name@yourdomain.com</title>
+	<title>Sabina Firtala | Data Scientist with Chemistry & Finance background | sabinagiorgiana@gmail.com</title>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
 	<meta name="keywords" content="" />
@@ -20,15 +20,15 @@
 		<div id="hd">
 			<div class="yui-gc">
 				<div class="yui-u first">
-					<h1>Jonathan Doe</h1>
-					<h2>Web Designer, Director</h2>
+					<h1>Sabina Firtala</h1>
+					<h2>Data Scientist with Chemistry & Finance background</h2>
 				</div>
 
 				<div class="yui-u">
 					<div class="contact-info">
 						<h3><a id="pdf" href="#">Download PDF</a></h3>
-						<h3><a href="mailto:name@yourdomain.com">name@yourdomain.com</a></h3>
-						<h3>(313) - 867-5309</h3>
+						<h3><a href="mailto:sabinagiorgiana@gmail.com">sabinagiorgiana@gmail.com</a></h3>
+						<h3>+40 723 291 121</h3>
 					</div><!--// .contact-info -->
 				</div>
 			</div><!--// .yui-gc -->
@@ -44,7 +44,7 @@
 						</div>
 						<div class="yui-u">
 							<p class="enlarge">
-								Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change. 
+								 
 							</p>
 						</div>
 					</div><!--// .yui-gf -->
@@ -154,7 +154,7 @@
 		</div><!--// bd -->
 
 		<div id="ft">
-			<p>Jonathan Doe &mdash; <a href="mailto:name@yourdomain.com">name@yourdomain.com</a> &mdash; (313) - 867-5309</p>
+			<p>Sabina Firtala &mdash; <a href="mailto:sabinagiorgiana@gmail.com">sabinagiorgiana@gmail.com</a> &mdash; +40 723 291 121</p>
 		</div><!--// footer -->
 
 	</div><!-- // inner -->
