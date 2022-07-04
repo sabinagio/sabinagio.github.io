@@ -26,7 +26,7 @@
 
 				<div class="yui-u">
 					<div class="contact-info">
-						<h3><a id="pdf" href="https://github.com/sabinagio/sabinagio.github.io/blob/main/CV_Sabina_Firtala_DS.pdf">Download PDF</a></h3>
+						<h3><a id="pdf" href="https://github.com/sabinagio/sabinagio.github.io/raw/main/CV_Sabina_Firtala_DS.pdf">Download PDF</a></h3>
 						<h3><a href="mailto:sabinagiorgiana@gmail.com">sabinagiorgiana@gmail.com</a></h3>
 						<h3>+40 723 291 121</h3>
 					</div><!--// .contact-info -->
