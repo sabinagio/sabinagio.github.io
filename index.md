@@ -1,57 +1,168 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
 <head>
-	<title>Sabina Firtala | Data Scientist, Financial Analyst | sabinagiorgiana@gmail.com</title>
+
+	<title>Jonathan Doe | Web Designer, Director | name@yourdomain.com</title>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
+
 	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css" media="all" /> 
 	<link rel="stylesheet" type="text/css" href="resume.css" media="all" />
-</head>
-  </style>
+
 </head>
 <body>
-<p><span class="smallcaps"><br />
-<a href="mailto:sabinagiorgiana@gmail.com"></a> <span class="math inline">|</span> +40 723 291 121 <span class="math inline">|</span> <a href="https://www.linkedin.com/in/sabina-firtala"></a> <span class="math inline">|</span> <a href="https://github.com/sabinagio"></a></span></p>
-<h1 id="education">Education</h1>
-<p><br />
-</p>
-<p><strong><span>Data Analytics</span>:</strong><span>Data Wrangling &amp; Visualization, Descriptive &amp; Inferential Statistics, Web Scraping &amp; APIs, BI</span></p>
-<p><strong><span>Machine Learning</span>:</strong><span>Linear &amp; Logistic Regression, K-Nearest Neighbors, Decision Trees, K-Means Clustering, Pipelines</span></p>
-<p><br />
-</p>
-<p><strong><span>Courses</span>:</strong> Climate Change and the Carbon Cycle, Organic Chemistry, Physical Chemistry, Biochemistry | <strong>66.48%, 2.i</strong></p>
-<h1 id="technical-skills">Technical Skills</h1>
-<p><br />
-<br />
-<br />
-</p>
-<h1 id="financial-analysis-experience">Financial Analysis Experience</h1>
-<p>Coded a selection algorithm for a foundation <strong>to find donation packages within seconds</strong> for high-value donors</p>
-<p>Conceptualized, built, and automated an inventory valuation model which <strong>improved gross margin accuracy by 4%</strong></p>
-<p>Projected expected cash flow, helping clients <strong>secure funding ($1.5MM)</strong> and <strong>invest in brokerage accounts ($1MM)</strong></p>
-<p><strong>Managed at least 6 client projects at any given time</strong>, adapting to shifting priorities and tight deadlines</p>
-<p>Documented and standardized recurring analytical tasks, which <strong>reduced task completion time by 1-2h</strong></p>
-<p><strong>Interfaced directly with 20+ stakeholders</strong>, including bookkeepers, analysts, project managers, clients’ teams</p>
-<p>Managed, supervised, and <strong>mentored 3 junior analysts and 3 contractors</strong></p>
-<p>Screened over 43 junior analyst applications, interviewed 23 candidates and graded 16 technical tests</p>
-<h1 id="data-science-projects">Data Science Projects</h1>
-<p><br />
-</p>
-<p>Evaluated two classification models, yielding a maximum prediction accuracy of 67% per class</p>
-<p>Unravelled and noted patterns in data using <a href="https://public.tableau.com/app/profile/sabina.firtala/viz/Credit-Card-Interest-Analysis/EDA"></a> for potential stakeholders</p>
-<p>Presented the findings during the class and proposed alternatives to improve the predictive power of the model</p>
-<p><br />
-</p>
-<p>Built a linear regression model for the overall score of FIFA players with a fellow classmate in a week</p>
-<p>Automated data cleaning, pre-processing and feature selection to simplify the process</p>
-<p>Conceived and presented the project, <strong>engaging 33% of the other students in the conversation</strong></p>
-<p><br />
-</p>
-<p>Collaborated with 2 UX/UI designers on developing a mobile-app for the ASOBAL handball league</p>
-<p>Developed a business plan showcasing <strong>how the app would drive a 350% revenue increase after 5 years</strong></p>
-<p>Communicated entirely in Spanish and <strong>delivered a case study and MVP in under 36 hours</strong></p>
-<h1 id="languages">Languages</h1>
-<p><strong>English</strong> (bilingual), <strong>Romanian</strong> (native), <strong>Spanish</strong> (professional)</p>
+
+<div id="doc2" class="yui-t7">
+	<div id="inner">
+	
+		<div id="hd">
+			<div class="yui-gc">
+				<div class="yui-u first">
+					<h1>Jonathan Doe</h1>
+					<h2>Web Designer, Director</h2>
+				</div>
+
+				<div class="yui-u">
+					<div class="contact-info">
+						<h3><a id="pdf" href="#">Download PDF</a></h3>
+						<h3><a href="mailto:name@yourdomain.com">name@yourdomain.com</a></h3>
+						<h3>(313) - 867-5309</h3>
+					</div><!--// .contact-info -->
+				</div>
+			</div><!--// .yui-gc -->
+		</div><!--// hd -->
+
+		<div id="bd">
+			<div id="yui-main">
+				<div class="yui-b">
+
+					<div class="yui-gf">
+						<div class="yui-u first">
+							<h2>Profile</h2>
+						</div>
+						<div class="yui-u">
+							<p class="enlarge">
+								Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change. 
+							</p>
+						</div>
+					</div><!--// .yui-gf -->
+
+					<div class="yui-gf">
+						<div class="yui-u first">
+							<h2>Skills</h2>
+						</div>
+						<div class="yui-u">
+
+								<div class="talent">
+									<h2>Web Design</h2>
+									<p>Assertively exploit wireless initiatives rather than synergistic core competencies.	</p>
+								</div>
+
+								<div class="talent">
+									<h2>Interface Design</h2>
+									<p>Credibly streamline mission-critical value with multifunctional functionalities.	 </p>
+								</div>
+
+								<div class="talent">
+									<h2>Project Direction</h2>
+									<p>Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.</p>
+								</div>
+						</div>
+					</div><!--// .yui-gf -->
+
+					<div class="yui-gf">
+						<div class="yui-u first">
+							<h2>Technical</h2>
+						</div>
+						<div class="yui-u">
+							<ul class="talent">
+								<li>XHTML</li>
+								<li>CSS</li>
+								<li class="last">Javascript</li>
+							</ul>
+
+							<ul class="talent">
+								<li>Jquery</li>
+								<li>PHP</li>
+								<li class="last">CVS / Subversion</li>
+							</ul>
+
+							<ul class="talent">
+								<li>OS X</li>
+								<li>Windows XP/Vista</li>
+								<li class="last">Linux</li>
+							</ul>
+						</div>
+					</div><!--// .yui-gf-->
+
+					<div class="yui-gf">
+	
+						<div class="yui-u first">
+							<h2>Experience</h2>
+						</div><!--// .yui-u -->
+
+						<div class="yui-u">
+
+							<div class="job">
+								<h2>Facebook</h2>
+								<h3>Senior Interface Designer</h3>
+								<h4>2005-2007</h4>
+								<p>Intrinsicly enable optimal core competencies through corporate relationships. Phosfluorescently implement worldwide vortals and client-focused imperatives. Conveniently initiate virtual paradigms and top-line convergence. </p>
+							</div>
+
+							<div class="job">
+								<h2>Apple Inc.</h2>
+								<h3>Senior Interface Designer</h3>
+								<h4>2005-2007</h4>
+								<p>Progressively reconceptualize multifunctional "outside the box" thinking through inexpensive methods of empowerment. Compellingly morph extensive niche markets with mission-critical ideas. Phosfluorescently deliver bricks-and-clicks strategic theme areas rather than scalable benefits. </p>
+							</div>
+
+							<div class="job">
+								<h2>Microsoft</h2>
+								<h3>Principal and Creative Lead</h3>
+								<h4>2004-2005</h4>
+								<p>Intrinsicly transform flexible manufactured products without excellent intellectual capital. Energistically evisculate orthogonal architectures through covalent action items. Assertively incentivize sticky platforms without synergistic materials. </p>
+							</div>
+
+
+							<div class="job last">
+								<h2>International Business Machines (IBM)</h2>
+								<h3>Lead Web Designer</h3>
+								<h4>2001-2004</h4>
+								<p>Globally re-engineer cross-media schemas through viral methods of empowerment. Proactively grow long-term high-impact human capital and highly efficient innovation. Intrinsicly iterate excellent e-tailers with timely e-markets.</p>
+							</div>
+
+						</div><!--// .yui-u -->
+					</div><!--// .yui-gf -->
+
+
+					<div class="yui-gf last">
+						<div class="yui-u first">
+							<h2>Education</h2>
+						</div>
+						<div class="yui-u">
+							<h2>Indiana University - Bloomington, Indiana</h2>
+							<h3>Dual Major, Economics and English &mdash; <strong>4.0 GPA</strong> </h3>
+						</div>
+					</div><!--// .yui-gf -->
+
+
+				</div><!--// .yui-b -->
+			</div><!--// yui-main -->
+		</div><!--// bd -->
+
+		<div id="ft">
+			<p>Jonathan Doe &mdash; <a href="mailto:name@yourdomain.com">name@yourdomain.com</a> &mdash; (313) - 867-5309</p>
+		</div><!--// footer -->
+
+	</div><!-- // inner -->
+
+
+</div><!--// doc -->
+
+
 </body>
 </html>
+
