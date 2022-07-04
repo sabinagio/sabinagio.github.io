@@ -26,7 +26,7 @@
 
 				<div class="yui-u">
 					<div class="contact-info">
-						<h3><a id="pdf" href="#">Download PDF</a></h3>
+						<h3><a id="pdf" href="https://github.com/sabinagio/sabinagio.github.io/blob/main/CV_Sabina_Firtala_DS.pdf">Download PDF</a></h3>
 						<h3><a href="mailto:sabinagiorgiana@gmail.com">sabinagiorgiana@gmail.com</a></h3>
 						<h3>+40 723 291 121</h3>
 					</div><!--// .contact-info -->
@@ -38,7 +38,7 @@
 			<div id="yui-main">
 				<div class="yui-b">
 
-					<div class="yui-gf last">
+					<div class="yui-gf first">
 						<div class="yui-u first">
 							<h2>Education</h2>
 						</div>
@@ -97,8 +97,8 @@
 					</div><!--// .yui-gf -->
 
 
-					<div class="yui-gf">
-						<div class="yui-u first">
+					<div class="yui-gf" last>
+						<div class="yui-u">
 							<h2>Projects</h2>
 						</div>
 						<div class="yui-u">
